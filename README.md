@@ -1,16 +1,59 @@
-# React + Vite
+# Movie App 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React.js application that lets users browse trending movies, search for titles, and explore content using the TMDB API. The app features a sleek, modern design with reusable components and smooth user experience.  
 
-Currently, two official plugins are available:
+You can check out the live app here: [https://movielist.in/](https://movielist.in/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 Table of Contents
+- 🤖 Introduction  
+- ⚙️ Tech Stack  
+- 🔋 Features  
+- 🤸 Quick Start  
+- 🖼️ Screenshots  
+- 🕸️ Snippets (Code to Copy)  
+- 🔗 Assets  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🤖 Introduction
+This Movie App is built with **React.js** for the frontend, **Appwrite** for backend services, and styled with **TailwindCSS**. Users can:
 
-## Expanding the ESLint configuration
+- Browse popular and trending movies  
+- Search for specific movies  
+- Explore detailed movie information  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The app is fully responsive, ensuring a seamless experience on desktop and mobile devices.  
+
+---
+
+## ⚙️ Tech Stack
+- **React.js** – JavaScript library for building interactive and reusable UI components.  
+- **Appwrite** – Open-source Backend-as-a-Service (BaaS) for authentication, database, and storage.  
+- **React-use** – Useful React hooks to manage state, effects, and lifecycles efficiently.  
+- **Tailwind CSS** – Utility-first CSS framework for fast, responsive UI development.  
+- **Vite** – Modern build tool with fast development server and optimized builds.  
+
+---
+
+## 🔋 Features
+- Browse all movies and trending content  
+- Search for movies by title  
+- Modern and responsive UI/UX design  
+- Clean, modular code architecture for reusability  
+- Smooth loading states with spinner feedback  
+- Error handling for failed API requests  
+
+---
+
+## 🤸 Quick Start
+
+### Prerequisites
+Make sure the following are installed:  
+- Git  
+- Node.js  
+- npm  
+
+### Clone the Repository
+```bash
+git clone https://github.com/RavshanSean/Movie-App.git
+cd Movie-App
