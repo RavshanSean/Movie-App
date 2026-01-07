@@ -4,6 +4,13 @@ A responsive React.js application that lets users browse trending movies, search
 
 You can check out the live app here: [https://movielist.in/](https://movielist.in/)  
 
+---
+![Home Page](<img width="1464" height="784" alt="Screenshot 2026-01-06 at 8 35 57 PM" src="https://github.com/user-attachments/assets/023646d6-fe8d-4434-8abe-44b185963b60" />)
+
+![Movie Search](<img width="1461" height="787" alt="Screenshot 2026-01-06 at 8 36 24 PM" src="https://github.com/user-attachments/assets/fdc54bed-a2a0-4355-b758-a184a74387dd" />)
+
+---
+
 ## Introduction
 This Movie App is built with **React.js** for the frontend, **Appwrite** for backend services, and styled with **TailwindCSS**. Users can:
 
@@ -34,7 +41,7 @@ The app is fully responsive, ensuring a seamless experience on desktop and mobil
 
 ---
 
-## 🤸 Quick Start
+## Quick Start
 
 ### Prerequisites
 Make sure the following are installed:  
