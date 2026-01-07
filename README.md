@@ -1,24 +1,13 @@
-# Movie App 🎬
+# Movie App
 
 A responsive React.js application that lets users browse trending movies, search for titles, and explore content using the TMDB API. The app features a sleek, modern design with reusable components and smooth user experience.  
 
 You can check out the live app here: [https://movielist.in/](https://movielist.in/)  
 
-## 📋 Table of Contents
-- 🤖 Introduction  
-- ⚙️ Tech Stack  
-- 🔋 Features  
-- 🤸 Quick Start  
-- 🖼️ Screenshots  
-- 🕸️ Snippets (Code to Copy)  
-- 🔗 Assets  
-
----
-
-## 🤖 Introduction
+## Introduction
 This Movie App is built with **React.js** for the frontend, **Appwrite** for backend services, and styled with **TailwindCSS**. Users can:
 
-- Browse popular and trending movies  
+- Browse popular and trending movies,tv shows and animes  
 - Search for specific movies  
 - Explore detailed movie information  
 
@@ -26,7 +15,7 @@ The app is fully responsive, ensuring a seamless experience on desktop and mobil
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - **React.js** – JavaScript library for building interactive and reusable UI components.  
 - **Appwrite** – Open-source Backend-as-a-Service (BaaS) for authentication, database, and storage.  
 - **React-use** – Useful React hooks to manage state, effects, and lifecycles efficiently.  
@@ -35,7 +24,7 @@ The app is fully responsive, ensuring a seamless experience on desktop and mobil
 
 ---
 
-## 🔋 Features
+## Features
 - Browse all movies and trending content  
 - Search for movies by title  
 - Modern and responsive UI/UX design  
