@@ -7,7 +7,7 @@ You can check out the live app here: [https://movielist.in/](https://movielist.i
 ---
 ![Home Page](https://github.com/user-attachments/assets/023646d6-fe8d-4434-8abe-44b185963b60)
 
-![Movie Search](https://github.com/user-attachments/assets/fdc54bed-a2a0-4355-b758-a184a74387dd)
+![Movie Search](https://github.com/user-attachments/assets/8fef49fe-755e-4ce6-b663-62ba5b2ce1ae)
 
 ---
 
